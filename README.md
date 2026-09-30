@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Yaeko Kubota 👋
 
-<!--
-**yaekokubota/yaekokubota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+AI Engineer Learner based in Japan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently studying:
+
+- Python
+- Data Analysis
+- Machine Learning
+- Deep Learning
+- Generative AI
+- RAG Systems
+
+## Current Goals
+
+- Build practical AI applications
+- Create portfolio projects on GitHub
+- Contribute to open-source projects
+- Work as an AI Engineer
+
+## Tech Stack
+
+Python | Pandas | NumPy | Scikit-learn | PyTorch | OpenAI | LangChain | Streamlit
+
+## Portfolio Projects
+
+Coming Soon 🚀
