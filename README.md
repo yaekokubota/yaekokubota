@@ -22,7 +22,7 @@ Currently studying:
 
 ## Tech Stack
 
-Python | Pandas | NumPy | Scikit-learn | PyTorch | OpenAI | LangChain | Streamlit
+Python | Pandas | NumPy | Scikit-learn | OpenAI | LangChain | Streamlit | Dify | Claude Code 
 
 ## Portfolio Projects
 
